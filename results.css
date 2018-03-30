@@ -1,0 +1,36 @@
+head {
+    background-color: #ff6600;
+}
+
+body {
+    background-color: #ff6600;
+}
+
+.container {
+    background-color: #ff6600;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.breadcrumb {
+    background-color: white;
+    border: black;
+}
+
+.home {
+    text-align: right;
+    color: lightskyblue;
+    text-decoration: none;
+
+}
+
+.home:hover {
+    color: white;
+    text-decoration: underline;
+}
+
+footer {
+    text-align: center;
+    color:#fff;
+}
